@@ -1,0 +1,8 @@
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe.config
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Users\joyan\repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
